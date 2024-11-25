@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 Full-stack Web Developer (Laravel-Vue/Nuxt.js) currently focusing on front-end web development using Vue/Nuxt.js(mainly). I love front-end as I discovered to be my core technical strength<br>👯 Would love to collaborate with Vue/Nuxt.js/JS peeps on a project around my tech strengths and interests.<br>🤝 Currently exploring and looking for a mentorship about deep knowledge and design patterns around Vue/Nuxt.js world.<br>🌱 I'm interested in learning TypeScript<br>⚡ Loves playing badminton, basketball, dart, PC games, walking, jogging, and Trail/DH mountain biking.
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/noelc10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noel.c10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noelcalonia) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/noel10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/n0elc10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@noelcalonia) 
