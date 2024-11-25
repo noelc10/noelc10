@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1> 💫 About Me: </h1>
 🔭 Full-stack Web Developer (Laravel-Vue/Nuxt.js) currently focusing on front-end web development using Vue/Nuxt.js(mainly). I love front-end as I discovered to be my core technical strength<br>👯 Would love to collaborate with Vue/Nuxt.js/JS peeps on a project around my tech strengths and interests.<br>🤝 Currently exploring and looking for a mentorship about deep knowledge and design patterns around Vue/Nuxt.js world.<br>🌱 I'm interested in learning TypeScript<br>⚡ Loves playing badminton, basketball, dart, PC games, walking, jogging, and Trail/DH mountain biking.
 
 <div align="center">
